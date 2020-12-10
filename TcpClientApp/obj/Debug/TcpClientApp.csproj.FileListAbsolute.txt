@@ -1,0 +1,15 @@
+C:\Users\Reno\Documents\Visual Studio 2017\Projects\TCPServerClient\TcpClientApp\bin\Debug\TcpClientApp.exe.config
+C:\Users\Reno\Documents\Visual Studio 2017\Projects\TCPServerClient\TcpClientApp\bin\Debug\TcpClientApp.exe
+C:\Users\Reno\Documents\Visual Studio 2017\Projects\TCPServerClient\TcpClientApp\bin\Debug\TcpClientApp.pdb
+C:\Users\Reno\Documents\Visual Studio 2017\Projects\TCPServerClient\TcpClientApp\obj\Debug\TcpClientApp.csprojAssemblyReference.cache
+C:\Users\Reno\Documents\Visual Studio 2017\Projects\TCPServerClient\TcpClientApp\obj\Debug\MainWindow.g.cs
+C:\Users\Reno\Documents\Visual Studio 2017\Projects\TCPServerClient\TcpClientApp\obj\Debug\App.g.cs
+C:\Users\Reno\Documents\Visual Studio 2017\Projects\TCPServerClient\TcpClientApp\obj\Debug\TcpClientApp_MarkupCompile.cache
+C:\Users\Reno\Documents\Visual Studio 2017\Projects\TCPServerClient\TcpClientApp\obj\Debug\TcpClientApp_MarkupCompile.lref
+C:\Users\Reno\Documents\Visual Studio 2017\Projects\TCPServerClient\TcpClientApp\obj\Debug\MainWindow.baml
+C:\Users\Reno\Documents\Visual Studio 2017\Projects\TCPServerClient\TcpClientApp\obj\Debug\TcpClientApp.g.resources
+C:\Users\Reno\Documents\Visual Studio 2017\Projects\TCPServerClient\TcpClientApp\obj\Debug\TcpClientApp.Properties.Resources.resources
+C:\Users\Reno\Documents\Visual Studio 2017\Projects\TCPServerClient\TcpClientApp\obj\Debug\TcpClientApp.csproj.GenerateResource.cache
+C:\Users\Reno\Documents\Visual Studio 2017\Projects\TCPServerClient\TcpClientApp\obj\Debug\TcpClientApp.csproj.CoreCompileInputs.cache
+C:\Users\Reno\Documents\Visual Studio 2017\Projects\TCPServerClient\TcpClientApp\obj\Debug\TcpClientApp.exe
+C:\Users\Reno\Documents\Visual Studio 2017\Projects\TCPServerClient\TcpClientApp\obj\Debug\TcpClientApp.pdb
